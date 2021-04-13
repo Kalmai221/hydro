@@ -1,1 +1,2 @@
-# hydro
+# Hydro, The Discord Bot
+WIP
